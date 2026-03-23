@@ -2064,4 +2064,4 @@ Merjen Amanmuradova
 - [23f3003974](https://github.com/23f3003974)
 - [xql.dèvv](https://github.com/kirobotdev)
 - [sun9526](https://github.com/sun9526)
-- [crowntaultw0608](https://github.com/CrowntailTW0608)
+- [CrowntailTW0608](https://github.com/CrowntailTW0608)
